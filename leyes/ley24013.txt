@@ -1,5 +1,4 @@
 
-
 EMPLEO
 
 Ley Nº 24.013
@@ -58,6 +57,8 @@ ARTICULO 4° — Inclúyense como incisos 21, 22 y 23 del artículo 23 de la Ley
 
 ARTICULO 5° — El Ministerio de Trabajo y Seguridad Social será la autoridad de aplicación de esta ley y deberá elaborar regularmente el Plan Nacional de Empleo y Formación Profesional. Asimismo, podrá delegar las facultades de policía derivadas de la aplicación de políticas fijadas por esta ley mediante convenios celebrados con las provincias.
 
+(Nota Infoleg: por art. 1° de la Resolución N° 204/2024 del Ministerio de Capital Humano B.O. 17/05/2024 se delega en la SECRETARÍA DE TRABAJO, EMPLEO Y SEGURIDAD SOCIAL del MINISTERIO DE CAPITAL HUMANO, el ejercicio de las competencias como Autoridad de Aplicación de la presente Ley. Vigencia: a partir del día de su publicación en el BOLETÍN OFICIAL DE LA REPÚBLICA ARGENTINA)
+
 ARTICULO 6° — El Poder Ejecutivo, a propuesta del Ministerio de Trabajo y Seguridad Social, establecerá un mecanismo de coordinación interministerial para facilitar la aplicación de esta ley que asegure una fluida información, la adopción de criterios comunes y una adecuada ejecución de las medidas.
 
 TITULO II
@@ -68,57 +69,65 @@ Capítulo 1
 
 Empleo no registrado
 
-ARTICULO 7° — Se entiende que la relación o el contrato de trabajo se encuentran registrados cuando el trabajador esté inscripto en las formas y condiciones que establezca la reglamentación que determine el Poder Ejecutivo.
+ARTICULO 7° — Se entiende que la relación o el contrato de trabajo se encuentran registrados cuando el trabajador esté inscripto en las formas y condiciones que establezca la reglamentación.
 
-Dicha registración deberá ser simple, inmediata, expeditiva, y realizarse a través de medios electrónicos.
+Dicha registración deberá ser simple, inmediata, expeditiva y realizarse a través de medios electrónicos.
 
-(Artículo sustituido por art. 59 del Decreto N° 70/2023 B.O. 21/12/2023.)
+La autoridad de aplicación asegurará un mecanismo ágil, simplificado y diferenciado para la confección de los recibos de sueldo en el sistema de registración, especialmente para las empresas de hasta doce (12) trabajadores inclusive.
 
-ARTICULO 7° bis - En virtud de lo establecido en los artículos 29 y 30 de la Ley N° 20.744, la registración efectuada en los términos del artículo 7° se considera plenamente eficaz cuando hubiera sido realizada por cualquiera de las personas intervinientes, humanas o jurídicas.
+Respecto de éstas últimas, dicho sistema contemplará un importe único para todas las obligaciones emergentes de las relaciones laborales legales y de la seguridad social. Del importe abonado, la entidad recaudadora deberá distribuir cada uno de los conceptos emergentes de la relación a los destinatarios correspondientes.
 
-(Artículo incorporado por art. 60 del Decreto N° 70/2023 B.O. 21/12/2023.)
+(Artículo sustituido por art. 82 de la Ley N° 27.742 B.O. 8/7/2024. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial de la República Argentina.)
 
-ARTICULO 7° ter - El trabajador podrá denunciar la falta de registración laboral ante la Autoridad de Aplicación, que deberá ofrecer un medio electrónico a tal efecto, ante la Administración Federal de Ingresos Públicos, entidad autárquica en el ámbito del Ministerio de Economía, o ante las autoridades administrativas del trabajo locales.
+ARTICULO 7° bis - La registración efectuada en los términos del artículo 7° se considerará plenamente eficaz cuando hubiera sido realizada por cualquiera de las personas, humanas o jurídicas, intervinientes.
 
-(Artículo incorporado por art. 61 del Decreto N° 70/2023 B.O. 21/12/2023.)
+(Artículo incorporado por art. 83 de la Ley N° 27.742 B.O. 8/7/2024. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial de la República Argentina.)
 
-ARTICULO 7° quáter.- En el supuesto de sentencia judicial firme que determine la existencia de una relación de empleo no registrada, la autoridad judicial deberá poner en conocimiento de la entidad recaudadora de las obligaciones de la seguridad social, dentro de los DIEZ (10) días hábiles siguientes a la fecha en que quede firme y consentida la sentencia, todas las circunstancias que permitan la determinación de deuda existente, si la hubiera.
+ARTICULO 7° ter - El trabajador podrá denunciar la falta de registración laboral ante la autoridad de aplicación, que deberá ofrecer un medio electrónico a tal efecto, ante la Administración Federal de Ingresos Públicos, entidad autárquica en el ámbito del Ministerio de Economía, o ante las autoridades administrativas del trabajo locales.
 
-Si conforme sentencia judicial firme, la relación laboral se encontrara enmarcada erróneamente como contrato de obra o servicios, de la deuda que determine el organismo recaudador, se deducirán los componentes ya ingresados conforme al régimen del cual se trate, se establecerá un sistema de intereses menos gravoso y facilidades de pago.
+El sistema deberá expedir la constancia pertinente.
 
-(Artículo incorporado por art. 62 del Decreto N° 70/2023 B.O. 21/12/2023.)
+(Artículo incorporado por art. 84 de la Ley N° 27.742 B.O. 8/7/2024. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial de la República Argentina.)
 
-ARTICULO 8° — (Artículo derogado por art. 53 del Decreto N° 70/2023 B.O. 21/12/2023.)
+ARTICULO 7° quáter.- En el supuesto de sentencia judicial firme que determine la existencia de una relación de empleo no registrada, la autoridad judicial deberá poner en conocimiento de la entidad recaudadora de las obligaciones de la seguridad social, dentro de los diez (10) días hábiles siguientes a la fecha en que quede firme y consentida la sentencia, todas las circunstancias que permitan la determinación de deuda existente, si la hubiera, y efectuar el reconocimiento de los años de servicio trabajado.
 
-ARTICULO 9° — (Artículo derogado por art. 53 del Decreto N° 70/2023 B.O. 21/12/2023.)
+Si conforme sentencia judicial firme, la relación laboral se encontrara enmarcada erróneamente como contrato de obra o servicios, de la deuda que determine el organismo recaudador, se deducirán los componentes ya ingresados conforme al régimen del cual se trate.
 
-ARTICULO 10. — (Artículo derogado por art. 53 del Decreto N° 70/2023 B.O. 21/12/2023.)
+(Artículo incorporado por art. 85 de la Ley N° 27.742 B.O. 8/7/2024. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial de la República Argentina.)
 
-ARTICULO 11. —(Artículo derogado por art. 53 del Decreto N° 70/2023 B.O. 21/12/2023.)
+ARTICULO 8° — (Artículo derogado por art. 99 de la Ley N° 27.742 B.O. 8/7/2024. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial de la República Argentina.)
 
-ARTICULO 12. — (Artículo derogado por art. 53 del Decreto N° 70/2023 B.O. 21/12/2023.)
+ARTICULO 9° — (Artículo derogado por art. 99 de la Ley N° 27.742 B.O. 8/7/2024. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial de la República Argentina.)
 
-ARTICULO 13. — (Artículo derogado por art. 53 del Decreto N° 70/2023 B.O. 21/12/2023.)
+ARTICULO 10. — (Artículo derogado por art. 99 de la Ley N° 27.742 B.O. 8/7/2024. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial de la República Argentina.)
 
-ARTICULO 14. — (Artículo derogado por art. 53 del Decreto N° 70/2023 B.O. 21/12/2023.)
+ARTICULO 11. — (Artículo derogado por art. 99 de la Ley N° 27.742 B.O. 8/7/2024. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial de la República Argentina.)
 
-ARTICULO 15. — (Artículo derogado por art. 53 del Decreto N° 70/2023 B.O. 21/12/2023.)
+ARTICULO 12. — (Artículo derogado por art. 99 de la Ley N° 27.742 B.O. 8/7/2024. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial de la República Argentina.)
 
-ARTICULO 16. — (Artículo derogado por art. 53 del Decreto N° 70/2023 B.O. 21/12/2023.)
+ARTICULO 13. — (Artículo derogado por art. 99 de la Ley N° 27.742 B.O. 8/7/2024. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial de la República Argentina.)
 
-ARTICULO 17. — (Artículo derogado por art. 53 del Decreto N° 70/2023 B.O. 21/12/2023.)
+ARTICULO 14. — (Artículo derogado por art. 99 de la Ley N° 27.742 B.O. 8/7/2024. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial de la República Argentina.)
+
+ARTICULO 15. — (Artículo derogado por art. 99 de la Ley N° 27.742 B.O. 8/7/2024. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial de la República Argentina.)
+
+ARTICULO 16. — (Artículo derogado por art. 99 de la Ley N° 27.742 B.O. 8/7/2024. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial de la República Argentina.)
+
+ARTICULO 17. — (Artículo derogado por art. 99 de la Ley N° 27.742 B.O. 8/7/2024. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial de la República Argentina.)
 
 Capítulo 2
 
-Del Sistema Unico de Registro Laboral
+Del Sistema Único de Registro
 
-ARTICULO 18. — El Sistema Único de Registro Laboral concentrará los siguientes registros:
+(Registro sustituido por art. 86 de la Ley N° 27.742 B.O. 8/7/2024. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial de la República Argentina.)
 
-a) la inscripción del empleador y la afiliación del trabajador al Instituto Nacional de Previsión Social, a las cajas de subsidios familiares y al prestador del sistema nacional de salud elegido por el trabajador;
+ARTICULO 18. — El Sistema Único de Registro concentrará los siguientes registros:
 
-b) el registro de los trabajadores beneficiarios del sistema integral de prestaciones por desempleo.
+a) La inscripción del empleador y la afiliación del trabajador al Instituto Nacional de Previsión Social, a las cajas de subsidios familiares y al prestador del sistema nacional de salud elegido por el trabajador;
 
-(Artículo sustituido por art. 63 del Decreto N° 70/2023 B.O. 21/12/2023.)
+b) El registro de los trabajadores beneficiarios del sistema integral de prestaciones por desempleo.
+
+(Artículo sustituido por art. 87 de la Ley N° 27.742 B.O. 8/7/2024. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial de la República Argentina.)
 
 ARTICULO 19. — El Poder Ejecutivo Nacional, a través del Ministerio de Trabajo y Seguridad Social, tendrá a su cargo la organización, conducción y supervisión del Sistema Unico de Registro Laboral, a cuyo fin tendrá las siguientes atribuciones:
 
@@ -330,7 +339,7 @@ ARTICULO 73. — El empleador no tiene el deber de preavisar la finalización de
 
 ARTICULO 74. — No procederá indemnización alguna cuando la relación laboral se extinga con motivo de finalización de la obra o tarea asignada, o del cese de la causa que le diera origen. En cualquier otro supuesto, se estará a lo dispuesto en la Ley de Contrato de Trabajo (t.o. 1976).
 
-De las empresas de servicios eventuales8
+De las empresas de servicios eventuales
 
 ARTICULO 75. — Derógase el último párrafo del artículo 29 de la Ley de Contrato de Trabajo (t.o. 1976), el que se sustituye por el siguiente:
 
@@ -388,7 +397,9 @@ b) proveer al cumplimiento de la obligación de ocupar personas discapacitadas q
 
 c) impulsar que en las convenciones colectivas se incluyan reservas de puestos de trabajo para discapacitados en el sector privado.
 
-ARTICULO 87. — Los empleadores que contraten trabajadores discapacitados por tiempo indeterminado gozarán de la exención prevista en el artículo 46 sobre dichos contratos por el período de un año, independientemente de las que establecen las leyes 22.431 y 23.031.
+ARTICULO 87. — Los empleadores que contraten trabajadores con discapacidad por tiempo indeterminado serán eximidos del pago del cincuenta por ciento (50%) de las contribuciones patronales y a las cajas de jubilaciones correspondientes al INSSJP, a las Cajas de Asignaciones y Subsidios Familiares y al Fondo Nacional de Empleo por el período de tres (3) años, independientemente de las establecidas en la ley 22.431.
+
+(Artículo sustituido por art. 17 de la Ley Nº 27.793 B.O. 22/9/2025.)
 
 ARTICULO 88. — Los empleadores que contraten un 4 por ciento o más de su personal con trabajadores discapacitados y deban emprender obras en sus establecimientos para suprimir las llamadas barreras arquitectónicas, gozarán de créditos especiales para la financiación de las mismas.
 
@@ -573,7 +584,6 @@ De 12 a 23 meses
 De 24 a 35 meses
 
 36 meses
-	
 
 Duración de las prestaciones
 
@@ -599,6 +609,7 @@ Del noveno al duodécimo mes la prestación será equivalente al 70 por ciento d
 
 En ningún caso la prestación mensual podrá ser inferior al mínimo ni superior al máximo que a ese fin determine el mismo Consejo.
 
+
 ARTICULO 119. — Las siguientes prestaciones formarán parte de la protección por desempleo:
 
 a) La prestación económica por desempleo, establecida en el artículo anterior;
@@ -611,7 +622,7 @@ d) Cómputo del período de las prestaciones a los efectos previsionales, con lo
 
 ARTICULO 120. — Los empleadores están obligados a:
 
-a) (Inciso derogado por art. 53 del Decreto N° 70/2023 B.O. 21/12/2023.);
+a) (Inciso derogado por art. 99 de la Ley N° 27.742 B.O. 8/7/2024. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial de la República Argentina.);
 
 b) Ingresar sus contribuciones al Fondo Nacional del Empleo;
 
@@ -921,7 +932,21 @@ ARTICULO 160. — Comuníquese al Poder Ejecutivo. -ALBERTO R PIERRI.-LUIS A. J.
 
 DADA EN LA SALA DE SESIONES DE CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS TRECE DIAS DEL MES DE NOVIEMBRE DEL AÑO MIL NOVECIENTOS NOVENTA Y UNO.
 
+
 Antecedentes Normativos
+- Artículo 7° sustituido por art. 59 del Decreto N° 70/2023 B.O. 21/12/2023;
+
+- Artículo 7° bis incorporado por art. 60 del Decreto N° 70/2023 B.O. 21/12/2023;
+
+- Artículo 7° ter incorporado por art. 61 del Decreto N° 70/2023 B.O. 21/12/2023;
+
+- Artículo 7° quáter incorporado por art. 62 del Decreto N° 70/2023 B.O. 21/12/2023;
+
+- Artículos 8° a 17 derogados por art. 53 del Decreto N° 70/2023 B.O. 21/12/2023;
+
+- Artículo 18 sustituido por art. 63 del Decreto N° 70/2023 B.O. 21/12/2023;
+
+- Artículo 120, inciso a) derogado por art. 53 del Decreto N° 70/2023 B.O. 21/12/2023;
 
 - Artículo 18, inciso b) derogado por art. 21 de la Ley N° 25.013 B.O. 24/9/1998;
 

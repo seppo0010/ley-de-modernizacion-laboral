@@ -11,7 +11,7 @@ import { FaRegEnvelope, FaTelegramPlane } from "react-icons/fa";
 import { FiFacebook, FiTwitter } from "react-icons/fi";
 
 const SocialShare = ({ slug, title }) => {
-  const url = "https://seppo0010.github.io/ley-omnibus/" + slug;
+  const url = "https://seppo0010.github.io/ley-de-modernizacion-laboral/" + slug;
 
   return (
     <div

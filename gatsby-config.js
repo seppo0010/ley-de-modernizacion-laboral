@@ -5,11 +5,11 @@ function replaceAccents(text) {
   return text.normalize("NFD").replace(/[\u0300-\u036f]/g, "")
 }
 
-const title = `Ley Omnibus comparada`
-const description = `Esta es una comparación basada en datos del proyecto de Ley de Bases y Puntos de Partida para la Libertad de los Argentinos`
+const title = `Ley de Modernización Laboral comparada`
+const description = `Esta es una comparación basada en datos del proyecto de Ley de Modernización Laboral`
 
 module.exports = {
-  pathPrefix: '/ley-omnibus',
+  pathPrefix: '/ley-de-modernizacion-laboral',
   siteMetadata: {
     title,
     author: `@seppo0011`,

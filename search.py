@@ -125,7 +125,7 @@ def rich_data_sustituyese_articulo(num, declared_num, x, titulo, titulo_titulo, 
     with open(f'leyes/{lod_str}{ley}.txt') as fp:
         old = fp.read() + '\nART'
 
-    art_old = re.search(r'\n(ART(?:[ÍI]CULO)?\.?\s*' + art + 'º?' + c('' if bis is None else bis) + r'(?:.|\n)*?)\nART', c(old), re.I).groups()[0]
+    art_old = re.search(r'\n(ART(?:[ÍI]CULO)?\.?\s*' + art + '[º°]?' + c('' if bis is None else bis) + r'(?:.|\n)*?)\nART', c(old), re.I).groups()[0]
     return {
         "fechaDescarga": "29/12/2023, 08:50:32",
         "json_original": {
@@ -282,7 +282,7 @@ def rich_data_sustituyese_parrafo(num, x, titulo, titulo_titulo, capitulo, capit
     with open(f'leyes/{"ley" if lod.lower() == "ley" else "decreto"}{ley}.txt') as fp:
         old = fp.read() + '\nART'
 
-    art_old = re.search(r'\n(ART(?:[ÍI]CULO)?\.?\s*' + art + 'º?\s*' + c('' if bis is None else bis) + r'(?:.|\n)*?)\nART', old, re.I).groups()[0]
+    art_old = re.search(r'\n(ART(?:[ÍI]CULO)?\.?\s*' + art + r'º?\s*' + c('' if bis is None else bis) + r'(?:.|\n)*?)\nART', old, re.I).groups()[0]
     paragraphs = re.split(r'\n+', art_old)
     paragraphs[{
         'primer': 0,
@@ -737,19 +737,22 @@ def rich_data(num, declared_num, x, titulo, titulo_titulo, capitulo, capitulo_ti
     data['textoModificado'] = data['textoModificado'].replace('ARTICULO', 'ARTÍCULO').lstrip('-. ')
     return data
 
-fp = open('omnibus')
+fp = open('proyecto.txt')
 data = fp.read()
 data = re.sub(r'\n{2,}', '[enter]', data)
 data = data.replace('\n', ' ')
 data = data.replace('[enter]', '\n')
 data = data.replace(' ART', '\nART')
+data = data.replace('\x0c', '')
+data = data.replace('LEY DE MODERNIZACIÓN LABORAL TÍTULO', 'LEY DE MODERNIZACIÓN LABORAL\nTÍTULO')
+
 capitulos = []
-for capitulo, titulo, numart in re.findall('\n+Cap[íi]tulo ([IXVL]+)(.*$)\n*ART[ÍI]CULO\s*(\d+)', data, re.MULTILINE):
+for capitulo, titulo, numart in re.findall(r'\n+CAP[ÍI]TULO ([IXVL]+)(.*$)\n*ART[ÍI]CULO\s*(\d+)', data, re.MULTILINE):
     titulo = titulo.strip().replace('- ', '').replace('– ', '')
     capitulos.append((capitulo, titulo, int(numart)))
 
 titulos = []
-for titulo_num, titulo, numart in re.findall('\n+T[ÍI]TULO ([IXVL]+)\n*(.*$)(?:.*?)(?:\nCapítulo.*?)(?:.*?)\s*ART[ÍI]CULO\s*(\d+)', data, re.MULTILINE):
+for titulo_num, titulo, numart in re.findall(r'\n+T[ÍI]TULO ([IXVL]+)\n*(.*\n?)(?:(?:.*?)(?:\nCAP[IÍ]TULO.*?)(?:.*?)\s*)?ART[ÍI]CULO\s*(\d+)', data, re.MULTILINE):
     titulo = titulo.strip().replace('- ', '').replace('– ', '')
     titulos.append((titulo_num, titulo, int(numart)))
 

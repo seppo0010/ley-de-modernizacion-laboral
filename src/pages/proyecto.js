@@ -17,7 +17,7 @@ const Proyecto = () => {
                     href={"https://resistencia.uy/"}
                     target="_blank"
                     rel="noopener noreferrer">LOC Comparada</a> a la ley Ómnibus. <a
-                    href={"https://github.com/seppo0010/ley-omnibus/"}
+                    href={"https://github.com/seppo0010/ley-de-modernizacion-laboral/"}
                     target="_blank"
                     rel="noopener noreferrer">Ver código fuente</a>.</p>
 
