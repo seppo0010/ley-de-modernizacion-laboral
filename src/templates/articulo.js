@@ -79,7 +79,7 @@ export default function Articulo({data}) {
 
                     {verVersion === VERSION_DIFF ?
                         <div className="flex flex-col">
-                            <span className="text-sm text-white bg-gray-600 text-center my-3 mx-auto">Lo que la Ley Ómnibus eliminaría se muestra en rojo tachado, y en verde se destaca el texto agregado</span>
+                            <span className="text-sm text-white bg-gray-600 text-center my-3 mx-auto">Lo que la Ley de Modernización Laboral eliminaría se muestra en rojo tachado, y en verde se destaca el texto agregado</span>
                             <div dangerouslySetInnerHTML={{__html: dmp.diff_prettyHtml(diff)}}/>
                         </div> : (verVersion === VERSION_FULL ?
                         <div className="flex flex-col">
