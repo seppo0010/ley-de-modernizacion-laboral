@@ -57,8 +57,8 @@ const IndexPage = ({data}) => {
 
 
             <p className="w-100 text-center text-gray-500 text-sm md:text-lg lg:w-2/3 mx-auto">
-                Esta es una comparación basada en datos del proyecto de Ley de Bases y Puntos de
-                Partida para la Libertad de los Argentinos (actualizado al 10 de abril de 2024)</p>
+                Esta es una comparación basada en datos del proyecto de Ley de Modernización Laboral
+                (actualizado al 11 de diciembre de 2025)</p>
 
             <div className="mx-auto p-5 w-100 lg:w-1/2 ">
                 <input
