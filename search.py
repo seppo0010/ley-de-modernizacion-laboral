@@ -271,7 +271,10 @@ def rich_data_sustituyese_articulo_ccyc(num, x, titulo, titulo_titulo, capitulo,
 def rich_data_sustituyese_parrafo(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
     x = x.replace('del Anexo ', '')
     x = x.replace('Ley de Impuesto al Valor Agregado', 'Decreto 280/97')
-    m = re.match(r'(?:.*?)Sustitúyese,?(?: en)? el(?: (primer|segundo|tercer|cuarto|quinto))? párrafo(?: (primero|segundo|tercero|cuarto))? del artículo (\d+)[°º]?(?: (:bis|ter|quater|quáter|quinquies|sixties|septies))? (?:de|por) la (Ley|Decreto)(?:.*?) (?:N[°º] )?([\d\.\/]+)(?:.*?) por el siguiente(?: texto)?:(.*)', x, re.MULTILINE|re.DOTALL|re.I)
+    x = x.replace(', con efecto para las contribuciones patronales que se devenguen a partir del primer día del mes siguiente a la promulgación de la presente ley', '')
+    x = x.replace(', a saber:', ' por el siguiente:')
+    x = x.replace('Ley de Impuesto a las Ganancias,', 'Ley N° 00000')
+    m = re.match(r'(?:.*?)Sustitúyen?se,?(?: en)? el(?: (primer|segundo|tercer|cuarto|quinto|undécimo))? párrafo(?: (primero|segundo|tercero|cuarto))? del artículo (\d+)[°º]?(?: (:bis|ter|quater|quáter|quinquies|sixties|septies))? (?:de|por) la (Ley|Decreto)(?:.*?) (?:N[°º] )?([\d\.\/]+)(?:.*?) por el siguiente(?: texto)?:(.*)', x, re.MULTILINE|re.DOTALL|re.I)
     if m is None: return None
     par, par2, art, bis, lod, ley, art_new = m.groups()
     art_new = art_new.replace('“', '')
@@ -279,6 +282,7 @@ def rich_data_sustituyese_parrafo(num, x, titulo, titulo_titulo, capitulo, capit
     art_new = art_new.strip()
 
     ley = ley.replace('.', '').replace('/', '-')
+    ley = ley.replace('00000', 'ganancias')
     with open(f'leyes/{"ley" if lod.lower() == "ley" else "decreto"}{ley}.txt') as fp:
         old = fp.read() + '\nART'
 
@@ -291,6 +295,7 @@ def rich_data_sustituyese_parrafo(num, x, titulo, titulo_titulo, capitulo, capit
         'tercer': 2,
         'tercero': 2,
         'cuarto': 3,
+        'undécimo': 10,
     }[par if par is not None else par2]] = art_new
     return {
         "fechaDescarga": "29/12/2023, 08:50:32",
@@ -469,6 +474,10 @@ def rich_data_derogase_incisos(num, x, titulo, titulo_titulo, capitulo, capitulo
     }
 
 def rich_data_sustituyese_inciso(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
+    x = x.replace(', con efectos para los años fiscales que se inicien a partir del 1° de enero de 2026,', '')
+    x = re.sub(r', a partir del primer día del mes inmediato siguiente al de la entrada en vigencia de\s*esta ley', '', x)
+    x = x.replace(', con efecto para las contribuciones que se devenguen a partir del segundo mes inmediato siguiente al de la entrada en vigencia de la presente ley,', '')
+    x = x.replace('Ley de Impuesto a las Ganancias,', 'Ley N° 00000')
     m = re.match(r'(?:.*?)Sustitúyese el inciso ([a-z0-9]+)\)?[°º]? del artículo (\d+)[°º]? de la Ley (?:.*?)N[°º] ([\d\.]+)(?:.*),? por el siguiente(?: texto)?:(.*)', x, re.MULTILINE|re.DOTALL)
     if m is None: return None
     inc, art, ley, inc_new = m.groups()
@@ -477,6 +486,7 @@ def rich_data_sustituyese_inciso(num, x, titulo, titulo_titulo, capitulo, capitu
     inc_new = inc_new.strip()
 
     ley = ley.replace('.', '')
+    ley = ley.replace('00000', 'ganancias')
     with open(f'leyes/ley{ley}.txt') as fp:
         old = fp.read() + '\nART'
 
