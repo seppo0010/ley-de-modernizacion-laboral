@@ -1,7 +1,4 @@
-HONORABLE CONGRESO DE LA NACION ARGENTINA
 
-
-1988-04-22
 ASOCIACIONES SINDICALES
 
 Tipos de asociaciones sindicales. Afiliación y desafiliación. Estatutos. Dirección y administración. Asambleas o congresos. Inscripción. Derechos y obligaciones de las asociaciones sindicales. Asociaciones sindicales con personería gremial. Federaciones y confederaciones. Representación sindical en la empresa. Tutela sindical. Prácticas desleales.
@@ -304,7 +301,7 @@ b) Los bienes adquiridos y sus frutos;
 
 c) Las donaciones, legados, aportes y recursos no prohibidos por esta.
 
-Artículo 38. — Los empleadores estarán obligados a actuar como 'agente de retención' de los importes que, en concepto de cuotas afiliación u otros aportes deban tributar los trabajadores a las asociaciones sindicales de trabajadores con personería gremial.
+Artículo 38. — Los empleadores estarán obligados a actuar como "agente de retención" de los importes que, en concepto de cuotas afiliación u otros aportes deban tributar los trabajadores a las asociaciones sindicales de trabajadores con personería gremial.
 
 Para que la obligación indicada sea exigible, deberá mediar una resolución del Ministerio de Trabajo y Seguridad Social de la Nación, disponiendo la retención. Esta resolución se adoptará a solicitud de la asociación sindical interesada. El ministerio citado deberá pronunciarse dentro de los treinta (30) días de recibida la misma. Si así no lo hiciere, se tendrá por tácitamente dispuesta la retención.
 
@@ -539,4 +536,3 @@ Carlos A. Bravo.
 V
 
 — Registrada bajo el N° 23.551 —
-
